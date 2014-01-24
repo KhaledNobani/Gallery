@@ -2,6 +2,9 @@
 
 <div>
 	<div> 
+	    ![Alt Photo Gallery - Filmstrip mode](https://www.dropbox.com/s/ohqnnpestqez1fh/Filmstrip%20Mode.png "Photo Gallery - Filmstrip mode")
+	    
+	    
 		<img alt = "Photo Gallery - Filmstrip mode" src = "https://www.dropbox.com/s/ohqnnpestqez1fh/Filmstrip%20Mode.png" title = "Photo Gallery - Filmstrip mode">
 		<p style = "text-align: center;">
 	        Photo Gallery in Filmstrip mode
