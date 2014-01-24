@@ -17,9 +17,9 @@
 	            Photo Gallery in Thumbnail mode
 	        </p>
 	    </div>
-	    <p>
+	    <h3>
 		    Features:
-	    </p>
+	    </h3>
 	    <ol>
 		    <li>
 			    Alternate view for switching the gallery view mode to thumbnail list or filmstrip view.
