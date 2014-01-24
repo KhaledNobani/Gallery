@@ -6,7 +6,7 @@
     <h1> Photo Gallery </h1>
     <div>
 	    <div> 
-		    <img alt = "Photo Gallery - Filmstrip mode" src = "https://s3.amazonaws.com/samples_of_project/Photo+Gallery/V0/Filmstrip+Mode.png" title = "Photo Gallery - Filmstrip mode">
+		    <img alt = "Photo Gallery - Filmstrip mode" src = "https://s3.amazonaws.com/samples_of_project/Photo+Gallery/V0/+Filmstrip+Mode.png" title = "Photo Gallery - Filmstrip mode">
 		    <p style = "text-align: center;">
 	            Photo Gallery in Filmstrip mode
 	        </p>
