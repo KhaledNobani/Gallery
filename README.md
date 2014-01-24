@@ -1,4 +1,4 @@
-# Photo Gallery With Alternate view mode - V0
+## Photo Gallery With Alternate view mode - V0
 
 <div>
 	<p> 
