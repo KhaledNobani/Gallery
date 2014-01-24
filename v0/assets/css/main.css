@@ -1,0 +1,228 @@
+body {
+	font-family: 'Trebuchet MS';
+}
+/* Color Pallet  * Dark Blue 011640 * Light Blue 5faee5 * Middle f2f0d0 * Ligth Red be6c5c * Dark Red 8c3037 */
+.darkBlue { background-color: #011640; }
+.lightBlue,
+.gallery-thumbList { background-color: #5faee5 }
+.middleColor { background-color: #5faee5 }
+.lightRed { background-color: #be6c5c }
+.darkRed { background-color: #8c3037 }
+
+/* Template */
+.line,
+.gallery-thumb { 
+	overflow: hidden;
+}
+
+.unit,
+.left-col {
+	float: left;
+}
+
+.inlineBlock {
+	display: inline-block;
+}
+
+.colRight {
+	float: right;
+}
+
+.lh-1p6em {
+	line-height: 1.6em;
+}
+
+.small-margin {
+	margin:0 6px;
+}
+
+.marginTop-3px {
+	margin-top: 3px;	
+}
+
+/* Photo gallery component */
+#photo-gallery {
+	height: 600px;
+	margin:auto;
+	overflow: hidden;
+	position: relative;
+	width: 750px;
+}
+
+/* Gallery-header */
+.gallery-header {
+	color: white;
+}
+
+.image-title,
+.gallery-title {
+	padding: 0.5em;	
+}
+
+/* Gallery viewer */
+.gallery-viewer {
+	width: 100%;
+	height: 80%;
+}
+
+.gallery-viewer > img {
+	height: 100%;
+	width: 100%;
+}
+
+/* Gallery thumb */
+.gallery-thumb {
+	height: auto;
+	position: relative;
+}
+
+.gallery-thumb a > img {
+	float:left;
+}
+
+/* thumb image */
+.thumb-image,
+.thumbList-image {
+	display: inline-block;
+	border-bottom: 6px solid transparent;
+	position: relative;
+	float:left;
+}
+
+.active-thumbImage {
+	border-bottom: 6px solid #8c3037;
+	
+}
+
+/* Image viewer */
+#image-viewer,
+.preloader {
+	background: black;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 200;
+}
+
+/* Gallery thumbList */
+.gallery-thumbList {
+	overflow: auto;
+	padding: 25px 4px;
+	position: relative;
+}
+
+.t > a  {
+	margin: 0.4em 0.2em;
+}
+
+/* Viewer content */
+#viewer-content {
+	display: block;
+	height: 96%;
+	margin:0.5em auto;
+	width: 98%;
+}
+
+/* Common properties */
+.hideItem {
+	display: none;
+}
+
+.right-col {
+	float: right;
+}
+
+.small-padding { 
+	padding: 0.2em 0.5em;
+}
+
+/* icons */
+
+.prev-section,
+.next-section {
+	display: inline-block;
+	cursor: pointer;
+}
+
+.prev-image,
+.next-image {
+	cursor: pointer;
+	display: inline-block;
+	height: 48px;
+	width: 48px;
+	position: absolute;
+	top: 184px;
+}
+
+.prev-image {
+	left: 12px;
+}
+
+.next-image {
+	right: 12px;
+}
+
+/* Alternate view */
+.view-filmstrip,
+.view-thumnlist {
+	cursor: pointer;
+	display: inline-block;
+	float: right;
+	margin: 0.4em 0.2em;
+}
+
+/* Indication componenet */
+.indication-content {
+	background: #F2F0D0; 	
+}
+
+/* Preloader component */
+.preloader-image {
+	display: block;
+	margin:40px auto;
+}
+.preloader-text {
+	color: white;
+	font-family: Georgia;
+	text-align: center; 
+}
+
+/* Thumbail-container */
+.t {
+	height: auto;
+	overflow: hidden;
+	padding: 10px;
+	width: 730px;
+	display: inline-block;
+}
+
+.t > a img {
+	border-radius: 3px;
+	box-shadow: 0 1px 2px black;
+}
+
+/* exit gallery */
+.exit-gallery {
+	background: url(../img/exit-gallery.png) no-repeat;
+	height: 24px;
+	position: absolute;
+	right: 15px;
+	top: 15px;
+	width: 24px;
+	cursor: pointer;
+}
+
+/* Image Title */
+.imageViewer-title {
+	background: rgba(0, 0, 0, 0.6);
+	bottom: 0;
+	color: white;
+	height: 2.0em;
+	padding:0.5em 0;
+	position: absolute;
+	text-align: center;
+	text-shadow: 0 1px 4px black;
+	width: 100%;
+}
