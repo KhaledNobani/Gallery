@@ -2,7 +2,13 @@
 
 <div>
 	<div> 
-		<img alt = "Photo Gallery - Filmstrip mode" src ="" title = "Photo Gallery - Filmstrip mode">
+		<img alt = "Photo Gallery - Filmstrip mode" src = "https://www.dropbox.com/s/ohqnnpestqez1fh/Filmstrip%20Mode.png" title = "Photo Gallery - Filmstrip mode">
+		<p style = "text-align: center;">
+	        Photo Gallery in Filmstrip mode
+	    </p>
+	</div>
+    <div> 
+		<img alt = "Photo Gallery - Thumbnail mode" src = "https://www.dropbox.com/s/ojy7aq5jfq8jlvg/Thumbnail%20Mode.png" title = "Photo Gallery - Thumbnail mode">
 		<p style = "text-align: center;">
 	        Photo Gallery in Thumbnail mode
 	    </p>
