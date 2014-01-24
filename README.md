@@ -1,11 +1,9 @@
-<!DOCTYPE html>
 <html lang = "en-us">
 <head>
-    <meta charset = "utf-8">
-    <title> Photo Gallery - jQuery Plugin </title>    
+    <meta charset = "utf-8"> 
 </head>
 <body>
-    <h1> Photo Gallery With Alternate view mode - V0 </h1>
+    <h2> Photo Gallery With Alternate view mode - V0 </h2>
     <div>
 	    <div> 
 		    <img alt = "Photo Gallery - Filmstrip mode" src = "https://www.dropbox.com/s/ohqnnpestqez1fh/Filmstrip%20Mode.png" title = "Photo Gallery - Filmstrip mode">
