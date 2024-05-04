@@ -1,0 +1,25 @@
+{
+  "name": "gallery",
+  "version": "1.0.0",
+  "description": " A photo gallery with an alternate view mode - jQuery Plugin. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KhaledNobani/Gallery.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Gallery"
+  ],
+  "author": "Khaled Nobani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhaledNobani/Gallery/issues"
+  },
+  "homepage": "https://github.com/KhaledNobani/Gallery#readme"
+}
